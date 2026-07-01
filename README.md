@@ -75,7 +75,6 @@ The platform has three parts:
 </p>
 
 <p float="left">
-  <img src="screenshots/19.png" width="220" />
   <img src="screenshots/20.png" width="220" />
   <img src="screenshots/06.png" width="160" />
   <img src="screenshots/08.png" width="160" />
