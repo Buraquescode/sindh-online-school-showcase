@@ -68,8 +68,6 @@ The platform has three parts:
 
 <p float="left">
   <img src="screenshots/01.png" width="160" />
-  <img src="screenshots/16.png" width="220" />
-  <img src="screenshots/17.png" width="220" />
   <img src="screenshots/18.png" width="220" />
   <img src="screenshots/05.png" width="160" />
   <img src="screenshots/11.png" width="160" />
