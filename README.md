@@ -43,53 +43,53 @@ The platform has three parts:
 ### 📱 Mobile App
 
 <p float="left">
-  <img src="screenshots/Screenshot (2410).png" width="160" />
-  <img src="screenshots/Screenshot (2411).png" width="160" />
-  <img src="screenshots/Screenshot (2412).png" width="160" />
-  <img src="screenshots/Screenshot (2413).png" width="160" />
-  <img src="screenshots/Screenshot (2414).png" width="160" />
+  <img src="screenshots/01.png" width="160" />
+  <img src="screenshots/02.png" width="160" />
+  <img src="screenshots/03.png" width="160" />
+  <img src="screenshots/04.png" width="160" />
+  <img src="screenshots/05.png" width="160" />
 </p>
 
 <p float="left">
-  <img src="screenshots/Screenshot (2415).png" width="160" />
-  <img src="screenshots/Screenshot (2416).png" width="160" />
-  <img src="screenshots/Screenshot (2417).png" width="160" />
-  <img src="screenshots/Screenshot (2418).png" width="160" />
-  <img src="screenshots/Screenshot (2419).png" width="160" />
+  <img src="screenshots/06.png" width="160" />
+  <img src="screenshots/07.png" width="160" />
+  <img src="screenshots/08.png" width="160" />
+  <img src="screenshots/09.png" width="160" />
+  <img src="screenshots/10.png" width="160" />
 </p>
 
 <p float="left">
-  <img src="screenshots/Screenshot (2420).png" width="160" />
-  <img src="screenshots/Screenshot (2421).png" width="160" />
-  <img src="screenshots/Screenshot (2422).png" width="160" />
-  <img src="screenshots/Screenshot (2423).png" width="160" />
-  <img src="screenshots/Screenshot (2424).png" width="160" />
+  <img src="screenshots/11.png" width="160" />
+  <img src="screenshots/12.png" width="160" />
+  <img src="screenshots/13.png" width="160" />
+  <img src="screenshots/14.png" width="160" />
+  <img src="screenshots/15.png" width="160" />
 </p>
 
 ### 🖥️ Admin Panel
 
 <p float="left">
-  <img src="screenshots/Screenshot (2425).png" width="220" />
-  <img src="screenshots/Screenshot (2426).png" width="220" />
-  <img src="screenshots/Screenshot (2427).png" width="220" />
+  <img src="screenshots/16.png" width="220" />
+  <img src="screenshots/17.png" width="220" />
+  <img src="screenshots/18.png" width="220" />
 </p>
 
 <p float="left">
-  <img src="screenshots/Screenshot (2428).png" width="220" />
-  <img src="screenshots/Screenshot (2430).png" width="220" />
+  <img src="screenshots/19.png" width="220" />
+  <img src="screenshots/20.png" width="220" />
 </p>
 
 ### 🌐 Public Website
 
 <p float="left">
-  <img src="screenshots/Screenshot (2431).png" width="220" />
-  <img src="screenshots/Screenshot (2432).png" width="220" />
-  <img src="screenshots/Screenshot (2433).png" width="220" />
+  <img src="screenshots/21.png" width="220" />
+  <img src="screenshots/22.png" width="220" />
+  <img src="screenshots/23.png" width="220" />
 </p>
 
 <p float="left">
-  <img src="screenshots/Screenshot (2434).png" width="220" />
-  <img src="screenshots/Screenshot (2435).png" width="220" />
+  <img src="screenshots/24.png" width="220" />
+  <img src="screenshots/25.png" width="220" />
 </p>
 
 ---
