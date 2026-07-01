@@ -43,40 +43,46 @@ The platform has three parts:
 ### 📱 Mobile App
 
 <p float="left">
-  <img src="screenshots/01.png" width="160" />
   <img src="screenshots/02.png" width="160" />
   <img src="screenshots/03.png" width="160" />
   <img src="screenshots/04.png" width="160" />
-  <img src="screenshots/05.png" width="160" />
+  <img src="screenshots/19.png" width="220" />
 </p>
 
 <p float="left">
-  <img src="screenshots/06.png" width="160" />
   <img src="screenshots/07.png" width="160" />
-  <img src="screenshots/08.png" width="160" />
   <img src="screenshots/09.png" width="160" />
-  <img src="screenshots/10.png" width="160" />
+  <img src="screenshots/16.png" width="220" />
+  <img src="screenshots/17.png" width="220" />
 </p>
 
 <p float="left">
-  <img src="screenshots/11.png" width="160" />
   <img src="screenshots/12.png" width="160" />
   <img src="screenshots/13.png" width="160" />
   <img src="screenshots/14.png" width="160" />
   <img src="screenshots/15.png" width="160" />
+  <img src="screenshots/17.png" width="220" />
 </p>
 
 ### 🖥️ Admin Panel
 
 <p float="left">
+  <img src="screenshots/01.png" width="160" />
   <img src="screenshots/16.png" width="220" />
   <img src="screenshots/17.png" width="220" />
   <img src="screenshots/18.png" width="220" />
+  <img src="screenshots/05.png" width="160" />
+  <img src="screenshots/11.png" width="160" />
+  
 </p>
 
 <p float="left">
   <img src="screenshots/19.png" width="220" />
   <img src="screenshots/20.png" width="220" />
+  <img src="screenshots/06.png" width="160" />
+  <img src="screenshots/08.png" width="160" />
+  <img src="screenshots/10.png" width="160" />
+  
 </p>
 
 ### 🌐 Public Website
